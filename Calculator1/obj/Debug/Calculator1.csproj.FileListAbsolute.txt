@@ -1,0 +1,9 @@
+C:\Users\kazyna.zhumadil\source\repos\Calculator1\bin\Debug\Calculator1.exe.config
+C:\Users\kazyna.zhumadil\source\repos\Calculator1\bin\Debug\Calculator1.exe
+C:\Users\kazyna.zhumadil\source\repos\Calculator1\bin\Debug\Calculator1.pdb
+C:\Users\kazyna.zhumadil\source\repos\Calculator1\obj\Debug\Calculator1.csprojAssemblyReference.cache
+C:\Users\kazyna.zhumadil\source\repos\Calculator1\obj\Debug\Calculator1.Form1.resources
+C:\Users\kazyna.zhumadil\source\repos\Calculator1\obj\Debug\Calculator1.Properties.Resources.resources
+C:\Users\kazyna.zhumadil\source\repos\Calculator1\obj\Debug\Calculator1.csproj.GenerateResource.cache
+C:\Users\kazyna.zhumadil\source\repos\Calculator1\obj\Debug\Calculator1.exe
+C:\Users\kazyna.zhumadil\source\repos\Calculator1\obj\Debug\Calculator1.pdb
